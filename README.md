@@ -1,4 +1,4 @@
-# Stock Portfolio Optimization Tool
+# Robo-Stock Advisor
 
 A Python-based portfolio optimization tool that analyzes historical stock market data and determines an optimal portfolio allocation based on risk-adjusted returns.
 
